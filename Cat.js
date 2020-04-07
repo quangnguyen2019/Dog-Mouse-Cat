@@ -4,4 +4,4 @@ function Cat() {
     this.stomatch = [];
 }
 
-module.exports = Cat;
+export default Cat;
