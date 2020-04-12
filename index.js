@@ -6,5 +6,3 @@ let Tom = new Cat();
 
 dog.sayHi();
 dog.eat(Tom);
-
-console.log(dog);
